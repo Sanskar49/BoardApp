@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+/* This header right here literally made the nav bar with these 3 lines of css.*/
+header {
+  padding: 1.5%;
+  background-color: #186ca3;
+  color: white;
+  font-size: 20px;
+}
